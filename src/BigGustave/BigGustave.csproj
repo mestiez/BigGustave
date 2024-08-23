@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <LangVersion>7.2</LangVersion>
+    <TargetFramework>net8.0</TargetFramework>
     <Description>Open, read and create PNG images.</Description>
     <RepositoryUrl>https://github.com/EliotJones/BigGustave</RepositoryUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/UglyToad/DataTable/master/uglytoadsmall.png</PackageIconUrl>
